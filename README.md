@@ -28,7 +28,7 @@ Recebemos um template e o editamos para que atendesse aos requisitos propostos d
 
 <h4>Cart Screen</h4>
 
-<img src="Dashboard.png" width="280" height="480" />
+<img src="Cart.png" width="280" height="480" />
 
 ## Tecnologias Usadas
 - TypeScript
