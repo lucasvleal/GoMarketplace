@@ -24,11 +24,11 @@ Recebemos um template e o editamos para que atendesse aos requisitos propostos d
 
 <h4>Dashboard</h4>
 
-![Screenshot](dashboard.png)
+<img src="Dashboard.png" width="280" height="480" />
 
 <h4>Cart Screen</h4>
 
-![Screenshot](import.png)
+<img src="Dashboard.png" width="280" height="480" />
 
 ## Tecnologias Usadas
 - TypeScript
