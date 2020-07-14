@@ -34,6 +34,7 @@ Recebemos um template e o editamos para que atendesse aos requisitos propostos d
 - TypeScript
 - React Native
 - ContextAPI
+- AsyncStorage
 - axios
 - json-server
 - polished
